@@ -1,0 +1,10 @@
+
+
+Welcome the Devops
+get some new git hub commands
+
+mkdir
+ls
+cd..
+cd  
+git config
