@@ -8,3 +8,5 @@ ls
 cd..
 cd  
 git config
+
+rm -r <file>
