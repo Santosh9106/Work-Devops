@@ -27,3 +27,15 @@ git commit -a -m "message" <if you want to commmit all give small -a>
 
 git log   <to check the status > 
 
+git  checkout master  <to go back to master from firstbranch>
+
+git log   
+
+git branch firstbranch
+
+git checkout firstbranch    <checkout from master to firstbranch>
+
+git merge firstbranch   <be in master and merge the firstbranch in it>
+
+cat Devops4.txt           <what is inside the txt file written.>
+
