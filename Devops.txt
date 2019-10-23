@@ -21,3 +21,9 @@ git add file name
 
 git commit -m "message"
 
+git add -A   <if you want to add more than 3 files at a atime>
+
+git commit -a -m "message" <if you want to commmit all give small -a>
+
+git log   <to check the status > 
+
