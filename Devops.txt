@@ -10,3 +10,13 @@ cd
 git config
 
 rm -r <file>
+
+git remote add origin "link"
+
+git pull origin master 
+
+git status
+
+git add file name
+
+
