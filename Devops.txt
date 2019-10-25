@@ -39,3 +39,12 @@ git merge firstbranch   <be in master and merge the firstbranch in it>
 
 cat Devops4.txt           <what is inside the txt file written.>
 
+git checkout master <first create few files in branch and add it and commit>
+
+git rebase firstbranch  <it will save automatically and show the new files>
+
+git checkout master
+
+git rebase firstbranch   <it will show the newly added files of branch in master without merging>
+
+
